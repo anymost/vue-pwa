@@ -1,0 +1,23 @@
+{
+  "name": "vue-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anymost/vue-pwa.git"
+  },
+  "keywords": [
+    "vue",
+    "pwa"
+  ],
+  "author": "richardZhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anymost/vue-pwa/issues"
+  },
+  "homepage": "https://github.com/anymost/vue-pwa#readme"
+}
